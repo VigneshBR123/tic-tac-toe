@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
+body{
+    background-image: url("tic_tac_toe.jpg");
+}
+
+.welcome{
+    color:rgb(0, 0, 0);
+    font-size: 32px;
+    font-family: 'Silkscreen', sans-serif;
+    text-shadow: 5px 3px 3px rgb(150, 20, 20);
+    margin-bottom: 20px;
+    
+}
+
+.head{
+    color: black;
+    font-size: 28px;
+    text-shadow: 4px 2px 2px rgb(150, 20, 20);
+    margin-top: -80px;
+    margin-left: 0%;
+    font-family: 'Pacifico', cursive;
+}
+
+.sec_head{
+    color: black;
+    font-size: 32px;
+    text-shadow: 1px 1px 1px rgb(150, 20, 20);
+    margin-top: -55px;
+    margin-left: 0%;
+    font-family: 'Pacifico', cursive;
+}
+
+
+.but{
+    width: 300px;
+    box-shadow: 10px 6px 6px rgb(150, 20, 20);
+    font-size: 92px;
+    font-family: 'Teko', sans-serif;
+    margin-top:-4.5%;
+    cursor: pointer;
+    border-radius: 10px;
+    border-bottom: -50%;
+}   
+a{
+    text-decoration: none;
+    color: rgb(150, 20, 20);
+    text-shadow: 5px 3px 3px rgb(43, 5, 5);
+    
+}
+
+.instruction{
+    color: black;
+    font-size: 32px;
+    text-shadow: 1px 1px 1px rgb(150, 20, 20);
+    margin-top: 80px;
+    margin-left: 0%;
+    font-family: 'Pacifico', cursive;
+
+}
